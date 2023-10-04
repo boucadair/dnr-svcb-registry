@@ -5,7 +5,7 @@
 Adaptive DNS Discovery                                           D. Wing
 Internet-Draft                                      Cloud Software Group
 Updates: 9460 (if approved)                                 M. Boucadair
-Intended status: Informational                                    Orange
+Intended status: Standards Track                                  Orange
 Expires: 6 April 2024                                           T. Reddy
                                                                    Nokia
                                                           4 October 2023
@@ -171,11 +171,12 @@ Table of Contents
       "alpn", "port", and "dohpath", and set to "N" for the other
       remaining entries.
 
-   *  Update the reference of the registry to list the RFC:
+   *  Update the reference of the registry to list the RFC number
+      assigned to this document:
 
-      OLD:  [RFC-ietf-dnsop-svcb-https-12]
+      OLD:  [RFC9460]
 
-      NEW:  [RFC-ietf-dnsop-svcb-https-12][This_Document]
+      NEW:  [RFC9460][This_Document]
 
 6.  References
 
