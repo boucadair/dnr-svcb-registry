@@ -62,7 +62,7 @@ Given that future SvcParams may be defined in the future, there is currently no 
 
 # Update to Section 14.3.1 of RFC 9460
 
-This document update {{Section 14.3.1 of !I-D.ietf-dnsop-svcb-https}} 
+This document updates {{Section 14.3.1 of !I-D.ietf-dnsop-svcb-https}} as follows:
 
 OLD:
 : A registration MUST include the following fields:
@@ -71,13 +71,13 @@ OLD:
   : Meaning: a short description
   : Format Reference: pointer to specification text
   : Change Controller: Person or entity, with contact information if appropriate.
-  
+
 NEW:
 : A registration MUST include the following fields:
   : Number: wire format numeric identifier (range 0-65535)
   : Name: unique presentation name
   : Meaning: a short description
-  : Applicable to DNR: Y/N. 
+  : Applicable to DNR: Y/N.
   : Format Reference: pointer to specification text
   : Change Controller: Person or entity, with contact information if appropriate.
 
