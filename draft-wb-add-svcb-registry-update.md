@@ -44,7 +44,7 @@ informative:
 
 --- abstract
 
-This document updates the DNS Service Bindings (SVCB) IANA registry to maintain the set of service parameters that are applicable to Discovery of Network-designated Resolvers (DNR). The document also include guidance for new service parameters to indicate whether they are eligible to be conveyed in DNR.
+This document updates the DNS Service Bindings (SVCB) IANA registry to maintain the set of service parameters that are applicable to Discovery of Network-designated Resolvers (DNR). The document also includes guidance for new service parameters to indicate whether they are eligible to be conveyed in DNR.
 
 This document updates RFC 9460.
 
