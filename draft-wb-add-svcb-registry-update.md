@@ -64,7 +64,7 @@ leveraged by the Discovery of Network-designated Resolvers (DNR)
 defined in that registry are eligible for inclusion in those
 protocols. For example, both {{!I-D.ietf-add-dnr}} and
 {{!I-D.ietf-ipsecme-add-ike}} specify that "ipv4hint" and "ipv6hint"
-Service Parameters (SvcParams) must not be included in DNR because
+Service Parameters (SvcParams) must not be included in these protocols because
 these parameters are superseded by the other parameters of those
 protocols.
 
