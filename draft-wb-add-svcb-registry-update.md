@@ -66,24 +66,26 @@ This document updates {{Section 14.3.1 of !I-D.ietf-dnsop-svcb-https}} as follow
 
 OLD:
 
-A registration MUST include the following fields:
+ A registration MUST include the following fields:
 
-  : Number: wire format numeric identifier (range 0-65535)
-  : Name: unique presentation name
-  : Meaning: a short description
-  : Format Reference: pointer to specification text
-  : Change Controller: Person or entity, with contact information if appropriate.
+   * Number: wire format numeric identifier (range 0-65535)
+   * Name: unique presentation name
+   * Meaning: a short description
+   * Format Reference: pointer to specification text
+   * Change Controller: Person or entity, with contact information if appropriate.
 
 NEW:
 
-A registration MUST include the following fields:
+ A registration MUST include the following fields:
 
-  : Number: wire format numeric identifier (range 0-65535)
-  : Name: unique presentation name
-  : Meaning: a short description
-  : Applicable to DNR (Y/N): an indication whether a the parameter is applicable to DNR {{!I-D.ietf-add-dnr}} or not.
-  : Format Reference: pointer to specification text
-  : Change Controller: Person or entity, with contact information if appropriate.
+   * Number: wire format numeric identifier (range 0-65535)
+   * Name: unique presentation name
+   * Meaning: a short description
+   * Applicable to DNR (Y/N): an indication whether a the parameter is applicable to DNR {{!I-D.ietf-add-dnr}} or not.
+   * Format Reference: pointer to specification text
+   * Change Controller: Person or entity, with contact information if appropriate.
+
+
 
 # Security Considerations
 
