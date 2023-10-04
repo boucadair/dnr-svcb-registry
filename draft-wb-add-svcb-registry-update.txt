@@ -108,32 +108,36 @@ Table of Contents
    This document updates Section 14.3.1 of [I-D.ietf-dnsop-svcb-https]
    as follows:
 
-   OLD:  A registration MUST include the following fields:  Number: wire
-         format numeric identifier (range 0-65535)
+   OLD:
 
-         Name: unique presentation name
+   A registration MUST include the following fields:  Number: wire
+      format numeric identifier (range 0-65535)
 
-         Meaning: a short description
+      Name: unique presentation name
 
-         Format Reference: pointer to specification text
+      Meaning: a short description
 
-         Change Controller: Person or entity, with contact information
-         if appropriate.
+      Format Reference: pointer to specification text
 
-   NEW:  A registration MUST include the following fields:  Number: wire
-         format numeric identifier (range 0-65535)
+      Change Controller: Person or entity, with contact information if
+      appropriate.
 
-         Name: unique presentation name
+   NEW:
 
-         Meaning: a short description
+   A registration MUST include the following fields:  Number: wire
+      format numeric identifier (range 0-65535)
 
-         Applicable to DNR (Y/N): an indication whether a the parameter
-         is applicable to DNR [I-D.ietf-add-dnr] or not.
+      Name: unique presentation name
 
-         Format Reference: pointer to specification text
+      Meaning: a short description
 
-         Change Controller: Person or entity, with contact information
-         if appropriate.
+      Applicable to DNR (Y/N): an indication whether a the parameter is
+      applicable to DNR [I-D.ietf-add-dnr] or not.
+
+      Format Reference: pointer to specification text
+
+      Change Controller: Person or entity, with contact information if
+      appropriate.
 
 4.  Security Considerations
 
@@ -155,9 +159,9 @@ Table of Contents
 
    *  Update the reference of the registry to list the RFC:
 
-   OLD:  [RFC-ietf-dnsop-svcb-https-12]
+      OLD:  [RFC-ietf-dnsop-svcb-https-12]
 
-   NEW:  [RFC-ietf-dnsop-svcb-https-12][This_Document]
+      NEW:  [RFC-ietf-dnsop-svcb-https-12][This_Document]
 
 6.  References
 
