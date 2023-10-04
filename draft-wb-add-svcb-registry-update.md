@@ -1,7 +1,7 @@
 ---
 title: "An Update to the DNS Service Bindings (SVCB) Registry"
 abbrev: "DNR & SVCB Registry"
-category: info
+category: std
 updates: 9460
 
 docname: draft-wb-add-svcb-registry-update-latest
@@ -135,13 +135,13 @@ group {{IANA-SVCB}} as follows:
   "alpn", "port", and "dohpath", and set to "N" for the other
   remaining entries.
 
-* Update the reference of the registry to list the RFC:
+* Update the reference of the registry to list the RFC number assigned to this document:
 
   OLD:
-  : [RFC-ietf-dnsop-svcb-https-12]
+  : [RFC9460]
 
   NEW:
-  : [RFC-ietf-dnsop-svcb-https-12][This_Document]
+  : [RFC9460][This_Document]
 
 --- back
 
