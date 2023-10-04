@@ -19,6 +19,13 @@ keyword:
 
 author:
  -
+    fullname: Dan Wing
+    organization: Cloud Software Group, Inc.
+    abbrev: Cloud Software Group
+    country: United States of America
+    email: danwing@gmail.com
+
+ -
     fullname: Mohamed Boucadair
     organization: Orange
     street: Rennes
