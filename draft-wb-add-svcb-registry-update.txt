@@ -6,7 +6,9 @@ Adaptive DNS Discovery                                           D. Wing
 Internet-Draft                                      Cloud Software Group
 Updates: 9460 (if approved)                                 M. Boucadair
 Intended status: Informational                                    Orange
-Expires: 6 April 2024                                     4 October 2023
+Expires: 6 April 2024                                           T. Reddy
+                                                                   Nokia
+                                                          4 October 2023
 
 
          An Update to the DNS Service Bindings (SVCB) Registry
@@ -220,3 +222,9 @@ Authors' Addresses
    35000
    France
    Email: mohamed.boucadair@orange.com
+
+
+   Tirumaleswar Reddy
+   Nokia
+   India
+   Email: kondtir@gmail.com
