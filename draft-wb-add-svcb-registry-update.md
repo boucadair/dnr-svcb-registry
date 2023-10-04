@@ -77,7 +77,7 @@ NEW:
   : Number: wire format numeric identifier (range 0-65535)
   : Name: unique presentation name
   : Meaning: a short description
-  : Applicable to DNR: Y/N.
+  : Applicable to DNR (Y/N): an indication whether a the parameter is applicable to DNR {{!I-D.ietf-add-dnr}} or not.
   : Format Reference: pointer to specification text
   : Change Controller: Person or entity, with contact information if appropriate.
 
