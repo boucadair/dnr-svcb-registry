@@ -88,9 +88,9 @@ Table of Contents
    defined in that registry are eligible for inclusion in those
    protocols.  For example, both [I-D.ietf-add-dnr] and
    [I-D.ietf-ipsecme-add-ike] specify that "ipv4hint" and "ipv6hint"
-   Service Parameters (SvcParams) must not be included in DNR because
-   these parameters are superseded by the other parameters of those
-   protocols.
+   Service Parameters (SvcParams) must not be included in these
+   protocols because these parameters are superseded by the other
+   parameters of those protocols.
 
    Given that future SvcParams may be defined in the future, there is
    currently no mechanism to tag whether an SvcParam may or must not be
