@@ -155,8 +155,9 @@ Table of Contents
 
    *  Update the reference of the registry to list the RFC:
 
-   OLD: [RFC-ietf-dnsop-svcb-https-12] NEW: [RFC-ietf-dnsop-svcb-https-
-   12][This_Document]
+   OLD:  [RFC-ietf-dnsop-svcb-https-12]
+
+   NEW:  [RFC-ietf-dnsop-svcb-https-12][This_Document]
 
 6.  References
 
