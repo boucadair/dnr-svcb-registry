@@ -66,6 +66,7 @@ This document updates {{Section 14.3.1 of !I-D.ietf-dnsop-svcb-https}} as follow
 
 OLD:
 : A registration MUST include the following fields:
+
   : Number: wire format numeric identifier (range 0-65535)
   : Name: unique presentation name
   : Meaning: a short description
@@ -74,6 +75,7 @@ OLD:
 
 NEW:
 : A registration MUST include the following fields:
+
   : Number: wire format numeric identifier (range 0-65535)
   : Name: unique presentation name
   : Meaning: a short description
@@ -93,8 +95,11 @@ This document request IANA to update the Service Parameter Keys (SvcParamKeys) r
 * Set "Applicable to DNR" to "Y" for "alpn", "port", and "dohpath". Set "Applicable to DNR" to "N" for the other remaining entries.
 * Update the reference of the registry to list the RFC:
 
-OLD: [RFC-ietf-dnsop-svcb-https-12]
-NEW: [RFC-ietf-dnsop-svcb-https-12][This_Document]
+OLD:
+: [RFC-ietf-dnsop-svcb-https-12]
+
+NEW:
+: [RFC-ietf-dnsop-svcb-https-12][This_Document]
 
 --- back
 
