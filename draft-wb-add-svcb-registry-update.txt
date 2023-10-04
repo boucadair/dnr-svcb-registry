@@ -110,33 +110,35 @@ Table of Contents
 
    OLD:
 
-   A registration MUST include the following fields:  Number: wire
-      format numeric identifier (range 0-65535)
+   A registration MUST include the following fields:
 
-      Name: unique presentation name
+   *  Number: wire format numeric identifier (range 0-65535)
 
-      Meaning: a short description
+   *  Name: unique presentation name
 
-      Format Reference: pointer to specification text
+   *  Meaning: a short description
 
-      Change Controller: Person or entity, with contact information if
+   *  Format Reference: pointer to specification text
+
+   *  Change Controller: Person or entity, with contact information if
       appropriate.
 
    NEW:
 
-   A registration MUST include the following fields:  Number: wire
-      format numeric identifier (range 0-65535)
+   A registration MUST include the following fields:
 
-      Name: unique presentation name
+   *  Number: wire format numeric identifier (range 0-65535)
 
-      Meaning: a short description
+   *  Name: unique presentation name
 
-      Applicable to DNR (Y/N): an indication whether a the parameter is
+   *  Meaning: a short description
+
+   *  Applicable to DNR (Y/N): an indication whether a the parameter is
       applicable to DNR [I-D.ietf-add-dnr] or not.
 
-      Format Reference: pointer to specification text
+   *  Format Reference: pointer to specification text
 
-      Change Controller: Person or entity, with contact information if
+   *  Change Controller: Person or entity, with contact information if
       appropriate.
 
 4.  Security Considerations
