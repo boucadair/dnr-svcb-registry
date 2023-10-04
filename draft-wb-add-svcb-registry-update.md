@@ -10,7 +10,7 @@ number:
 date:
 consensus: true
 v: 3
-workgroup: ADD
+workgroup: "Adaptive DNS Discovery"
 keyword:
  - DNR
  - Service Parameters
