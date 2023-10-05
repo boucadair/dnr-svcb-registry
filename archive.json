@@ -1,0 +1,117 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2023-10-05T00:28:19.529364+00:00",
+  "repo": "boucadair/dnr-svcb-registry",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOKb4N785b662m",
+      "title": "remove Dan as author, add draft-ietf-ipsecme-add-ike ",
+      "url": "https://github.com/boucadair/dnr-svcb-registry/pull/1",
+      "state": "MERGED",
+      "author": "danwing",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-10-04T16:26:33Z",
+      "updatedAt": "2023-10-04T17:03:47Z",
+      "baseRepository": "boucadair/dnr-svcb-registry",
+      "baseRefName": "main",
+      "baseRefOid": "5c7f25dd9d73e6db2eedf555097d79ed975c52f4",
+      "headRepository": "boucadair/dnr-svcb-registry",
+      "headRefName": "ipsecme",
+      "headRefOid": "cd95d19f635848694ed619c8b33d92263908ffe1",
+      "closedAt": "2023-10-04T17:03:47Z",
+      "mergedAt": "2023-10-04T17:03:47Z",
+      "mergedBy": "boucadair",
+      "mergeCommit": {
+        "oid": "ee502413746a80d793a6f9bddc60101986029588"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOKb4N785i1IQY",
+          "commit": {
+            "abbreviatedOid": "a5e245e"
+          },
+          "author": "boucadair",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2023-10-04T16:56:18Z",
+          "updatedAt": "2023-10-04T16:56:18Z",
+          "comments": [
+            {
+              "originalPosition": 43,
+              "body": "```suggestion\r\nService Parameters (SvcParams) must not be included in these protocols because\r\n```",
+              "createdAt": "2023-10-04T16:56:18Z",
+              "updatedAt": "2023-10-04T16:56:18Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOKb4N785i1LTU",
+          "commit": {
+            "abbreviatedOid": "cd95d19"
+          },
+          "author": "boucadair",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2023-10-04T17:03:38Z",
+          "updatedAt": "2023-10-04T17:03:38Z",
+          "comments": []
+        }
+      ]
+    }
+  ]
+}
